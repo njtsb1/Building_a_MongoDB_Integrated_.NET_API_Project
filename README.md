@@ -26,10 +26,10 @@ NOTE: you need to configure database access in appsettings.
 
 Useful links:
 
-[.Net Core](https://dotnet.microsoft.com/download)
-[Visual Code](https://code.visualstudio.com/download)
-[Postman](https://www.postman.com/downloads/)
-[Mongo atlas](https://www.mongodb.com/cloud/atlas/register)
+- [.Net Core](https://dotnet.microsoft.com/download)
+- [Visual Code](https://code.visualstudio.com/download)
+- [Postman](https://www.postman.com/downloads/)
+- [Mongo atlas](https://www.mongodb.com/cloud/atlas/register)
 
 References:
 
