@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## Building a MongoDB-Integrated .NET API Project
+# Building a MongoDB-Integrated .NET API Project
 
 Project developed in Bootcamp Avanade Fullstack Developer with expert instruction [Gabriel Faraday](https://github.com/gabrielfbarros "Gabriel Faraday").</br>
 Learning to build an API project in .NET Core integrated with a MongoDB cluster, and create in real time in the Mongo Atlas service cloud.
